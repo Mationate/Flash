@@ -106,7 +106,7 @@ public class DrawerFragment extends Fragment {
             Log.d("path",path);
         } else {
             requestSelfie();
-        }
+            }
 
 
     }
